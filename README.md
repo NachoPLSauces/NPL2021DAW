@@ -9,9 +9,7 @@ _Aplicación final de DAW - Desarrollo de Aplicaciones Web._
 
 ## Módulos PHP
 
-* Github
-* RSS
-* PHPDoc
+* xDebug
 
 ## Autor
 
